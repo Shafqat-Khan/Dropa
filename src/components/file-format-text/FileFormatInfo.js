@@ -1,7 +1,7 @@
 import React from "react";
 
 import Typography from "@mui/material/Typography";
-import { CustomBoxImageText } from "../file-previewer/FilePreviewer.style";
+import { CustomBoxImageText } from "components/file-previewer/FilePreviewer.style";
 
 const FileFormatInfo = (props) => {
   const { text } = props;
